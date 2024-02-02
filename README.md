@@ -1,7 +1,7 @@
 Final-Project-NBA Analysis on Stephen Curry
 
 ## Project/Goals
-The goal of this project is to analyze and visualize the Airbnb dataset for New York City using Tableau. The objectives include understanding the distribution of room types, exploring the relationship between the number of beds and price, and examining the spatial and temporal aspects of Airbnb listings.
+The project was to examine the NBA Data set and also analyse the contributions of Stephen Curry to his team Golden State Warriors. This data analyses how his performance in different seasons, team contribution and skills has contributed to the success of his team.
 
 ##Introduction: NBA Data Analysis Golden State Warriors
 1. Analyzes Stephen Curry's comprehensive career statistics.
